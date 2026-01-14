@@ -4,7 +4,7 @@
  
 # Features:
 
-- 3D Model
+- Puzzle, Whirl, 3D
 - eData
 - Full Api
  
